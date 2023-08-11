@@ -1,0 +1,6 @@
+cn:
+  ruihusoft:
+    xivapi:
+      enabled: true
+      ssl: false
+      url: https://xivapi.com
